@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "340150851782",
+    "project_id": "ohmyumbrella-df929",
+    "storage_bucket": "ohmyumbrella-df929.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340150851782:android:eb7982c13e230031dd1fc7",
+        "android_client_info": {
+          "package_name": "com.example.oh_my_umbrella"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340150851782-ujjhqamgv0mcrvimj6ag6r7jj8uqa4m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALdEGDmra-_uBHlj1CP9lm3Cv2DC3vvVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340150851782-ujjhqamgv0mcrvimj6ag6r7jj8uqa4m0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
